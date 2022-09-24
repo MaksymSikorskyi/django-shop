@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'mptt',
     'colorfield',
     'django_google_maps',
+    'order',
 
 ]
 
